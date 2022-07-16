@@ -39,5 +39,4 @@ public void emptyStringReturnsZero() {
 	}]
 And in the same way we have to keep finding the test cases.
 Some of these I've implemented, but not all. This experience allowed me to gain new knowledge and understanding.
-And the output looked like:
  
